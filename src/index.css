@@ -1,0 +1,6 @@
+input,button {
+  display: flex;
+  margin: 0 auto;
+  min-height: 20px;
+  min-width: 10px;
+}
